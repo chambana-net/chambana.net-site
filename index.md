@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chambana.net
-tagline: open source tool hosting for organizations
+tagline: open source community hosting that makes a difference
 ---
 
 Chambana.net is a project of <a href="http://www.acornactivemedia.com/">Acorn Active Media</a> that seeks to provide low-cost web hosting services to non-profit organizations, small businesses, and individuals, both locally and internationally, by collectivizing the use of uplink bandwidth on a shared internet connection.
