@@ -18,7 +18,13 @@ Lastly, offer such low-cost service by allowing clients to self-administrate the
 
 Chambana.net service users are expected to have the expertise or skills necessary to implement the web services they desire. Commensurately, technically competent users are not forced to pay for advanced technical support services that they do not need. Chambana.net service users are strongly encouraged to take advantage of the various free and low-cost computer learning opportunities offered in the community, such as the Computer Learning And Mentoring (CLAM) center.
 
-## History
+## Contact
 
-coming soon...
+To inquire about chambana.net services or support: 
 
+contact@chambana.net
+
+Chambana.net
+PO Box 938
+Urbana, IL 61803
+USA
