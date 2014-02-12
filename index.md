@@ -4,17 +4,19 @@ title: Chambana.net
 tagline: open source community hosting that makes a difference
 ---
 
- <div style="float:right; width: 15%; margin: .5em; padding: .5em; border: 3px solid #9A0137;">
-### Domains hosted by Chambana.net:
-* opentechinstitute.org
-* commotionwireless.net
-* thebikeproject.org
-* ucmakerfaire.org
-* ucimc.org
-* wirelesssummit.org
-* anti-war.net
-* saschameinrath.com
-* acornactivemedia.com
+ <div style="float:right; width: 30%; margin: .5em; padding: .5em; border: 3px solid #9A0137;">
+ <h3>Domains hosted by Chambana.net:</h3>
+ <ul>
+  <li>opentechinstitute.org</li>
+  <li>commotionwireless.net</li>
+  <li>thebikeproject.org</li>
+  <li>ucmakerfaire.org</li>
+  <li>ucimc.org</li>
+  <li>wirelesssummit.org</li>
+  <li>anti-war.net</li>
+  <li>saschameinrath.com</li>
+  <li>acornactivemedia.com</li>
+ </ul>
  </div>
 Chambana.net is a project of <a href="http://www.acornactivemedia.com/">Acorn Active Media</a> that seeks to provide low-cost web hosting services to non-profit organizations, small businesses, and individuals, both locally and internationally, by collectivizing the use of uplink bandwidth on a shared internet connection.
 
