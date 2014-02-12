@@ -5,7 +5,7 @@ tagline: open source community hosting that makes a difference
 ---
 
  <div style="float:right; width: 30%; margin: .5em; padding: .5em; border: 3px solid #9A0137;">
- <h3>Domains hosted by Chambana.net:</h3>
+ <h3>Some of the Domains currently hosted by Chambana.net:</h3>
  <ul>
   <li>opentechinstitute.org</li>
   <li>commotionwireless.net</li>
