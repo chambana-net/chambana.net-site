@@ -5,7 +5,7 @@ tagline: open source community hosting that makes a difference
 ---
 
  <div style="float:right; width: 30%; margin: .5em; padding: .5em; border: 3px solid #9A0137;">
- <h3>Some of the Domains currently hosted by Chambana.net:</h3>
+ <h3>Some of the Domains currently or previously hosted by Chambana.net:</h3>
  <ul>
   <li>opentechinstitute.org</li>
   <li>commotionwireless.net</li>
@@ -31,6 +31,8 @@ The Chambana.net service is founded on three basic notions:
 Chambana.net service users are expected to have the expertise or skills necessary to implement the web services they desire. Commensurately, technically competent users are not forced to pay for advanced technical support services that they do not need. Chambana.net service users are strongly encouraged to take advantage of the various free and low-cost computer learning opportunities offered in the community.
 
 ## Contact
+
+**Note: Chambana.net is currently not taking on additional clients.**
 
 To inquire about chambana.net services or support: 
 
